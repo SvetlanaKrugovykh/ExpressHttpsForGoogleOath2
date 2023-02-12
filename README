@@ -1,0 +1,6 @@
+Example of
+Attampting of google AUth2 authorization for google calendar
+
+google Documentations url is https://developers.google.com/identity/protocols/oauth2/web-server?hl=ru#node.js_4
+
+Separate service based on express https
